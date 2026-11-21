@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mohamed
 
-<!--
-**mohamedyousryy1/mohamedyousryy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer & Control Systems Engineering student at the Faculty of Engineering, Mansoura University. I learn by building: a study bot for my faculty and small apps.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Faculty study-materials Telegram bot: gives Faculty of Engineering, Mansoura University students one-tap access to study materials on Google Drive through inline buttons. Live: https://t.me/FOE_MU_bot
+- Flutter app projects in Dart: early apps and experiments, such as a dhikr counter and German vocabulary cards.
+
+## Skills
+
+- Languages: C, C++, C#, Python, Dart
+- Mobile: Flutter (learning)
+- Automation: n8n, Telegram bots, Google Drive API
+- Infrastructure: Docker, MySQL, Linux, cloud hosting
+- Learning: data analysis with Python, AI automation workflows, machine learning basics
+
+## Teams
+
+CAT (CS committee), Breaking Point (Flutter committee), ICPC team.
